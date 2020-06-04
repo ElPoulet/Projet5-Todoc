@@ -1,8 +1,9 @@
 # Projet5-Todoc
  Projet 5-Openclassrooms-Todoc
+ Todoc est une application de gestion de tâches pour différents projets.
  
  # Téléchargement et installation de l'application
- Télécharger le fichier ZIP de l'application, ensuite déziper le fichier dans un dossier. Une fois le projet dans le dossier, ouvrir android studio et ouvrir le projet.
+ Télécharger le fichier ZIP de l'application, ensuite déziper le fichier dans un dossier. Une fois le projet dans le dossier, ouvrir    android studio et ouvrir le projet.
  
  Télécharger le fichier APK de l'application et ainsi vous pouvez installer l'application sur votre smartphone ou votre tablette.
  
